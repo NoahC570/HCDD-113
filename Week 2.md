@@ -48,3 +48,7 @@ Include your short reflection as part of the file or in a separate document.
 - Introduce basic scripting skills used in interactive prototyping
 - Understand how HTML, CSS, and JavaScript work together
 - Build confidence in early front-end development through hands-on practice
+
+## Example
+
+![image](https://github.com/user-attachments/assets/3fe92419-438e-4fe4-9f72-53ab76eda18c)
