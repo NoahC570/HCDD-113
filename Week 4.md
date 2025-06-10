@@ -49,3 +49,8 @@ Submit the following:
 - Link structural code decisions to user-centered design models  
 - Use layout to reduce cognitive load and increase clarity  
 - Practice organizing digital content with accessibility and usability in mind
+
+## Example 
+
+![image](https://github.com/user-attachments/assets/7061d664-1b33-4d61-9136-7aac51445f3f)
+
