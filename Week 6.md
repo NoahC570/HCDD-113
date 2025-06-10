@@ -50,3 +50,10 @@ Submit the following:
 - Practice organizing your own work and presenting it clearly  
 - Strengthen your HTML/CSS fundamentals through applied layout  
 - Build an early portfolio artifact for future design or development tracks
+
+## Example
+
+![image](https://github.com/user-attachments/assets/216ea0c7-696a-4968-be42-808b26df0cde)
+![image](https://github.com/user-attachments/assets/b8910af9-f5aa-4fef-b59e-dd80012c7bc7)
+
+
